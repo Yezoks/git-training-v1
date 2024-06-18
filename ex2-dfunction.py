@@ -8,3 +8,5 @@ print("The program ran successfully")
 #---------------------------------------------------------
 print("first modification for 2nd commit")
 print("Added this line from the GitHub website for the first time")
+#---------------------------------------------------------
+print("Added this line from the branch vardy from git terminal")
